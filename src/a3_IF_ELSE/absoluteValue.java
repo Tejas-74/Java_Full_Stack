@@ -12,3 +12,4 @@ public class absoluteValue {
         System.out.println("Absolute Num is: "+num);
     }
 }
+//push
