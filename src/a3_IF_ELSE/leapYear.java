@@ -11,7 +11,8 @@ public class leapYear {
         } else {
             System.out.println("Year is not Leap");
         }
+        System.out.println("Enter the Year: ");
 
     }
 }
-//push
+
